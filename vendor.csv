@@ -1,0 +1,4 @@
+kode_supplier,nama_supplier,alamat,asal_data
+SUP-001,CV Sinar Suku Cadang,Padang (simulasi),P2_DUMMY
+SUP-SIM-002,CV Mitra Ban Simulasi,Padang (simulasi),FRAUD_SIM
+SUP-SIM-003,PT Prima Aki Simulasi,Bukittinggi (simulasi),FRAUD_SIM
